@@ -7,7 +7,7 @@ I'm a Software Engineering student from Brazil, specializing in Front-End Develo
   <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="25" style="vertical-align: middle"> HTML5</li>
   <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="25" style="vertical-align: middle"> CSS3</li>
   <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="25" style="vertical-align: middle"> JavaScript</li>
-  <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="25" style="vertical-align: middle"> React.js</li>
+  <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="25" style="vertical-align: middle"> Next.js</li>
 </ul>
 
 ### 🌱 Learning Next
