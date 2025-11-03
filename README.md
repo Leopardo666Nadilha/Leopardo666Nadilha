@@ -23,8 +23,8 @@ I'm a Software Engineering student from Brazil, specializing in Front-End Develo
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-padilha-4793182a9)
-
 I built my official company website from scratch using Next.js. Check it out!
 
 [![Visit Website](https://img.shields.io/badge/Visit%20Website-D69E2E?style=for-the-badge)](https://autumn-softwares.vercel.app)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-padilha-4793182a9)
